@@ -18,5 +18,5 @@ COPY . .
 
 EXPOSE 8658
 
-CMD [ "node", "server.js" ]
+CMD [ "node", "index.js" ]
 
